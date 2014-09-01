@@ -11,7 +11,7 @@
 == search ==
  * added Itasa provider (Italian subtitles)
  * added SubtitlesGR provider (Greek subtitles)
- * added missing default languages to LanguageSelection screen
+ * added missing default languages to Lang-uageSelection screen
  * fixed GS when provider is temporary unavailable
  * fixed unpacking of nested subtitles in archives/subdirectories
 
@@ -113,4 +113,4 @@
  * fixed saving provider's settings
  * fixed some encoding issues
  * provider passwords are now hidden
- * [OpenSubtitles] try to fix ProtocolError 503
+ * [OpenSubtitles] try to fix ProtocolError
